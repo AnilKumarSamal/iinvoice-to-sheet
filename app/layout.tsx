@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: "CheckForge Bills | Turn Invoices & Receipts Into Excel Spreadsheets",
   description:
     "Instantly extract line items, prices, quantities, and taxes from store bills, thermal receipts, or WhatsApp order screenshots into a clean .XLSX file.",
+  verification: {
+    google: "wkTdrrhzocairoOzzUcuKcz6hD3rxmxVbqTq_3kWj5M",
+  },
   keywords: [
     "invoice to excel converter",
     "receipt parser ai",
